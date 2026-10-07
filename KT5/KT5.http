@@ -1,0 +1,6 @@
+@KT5_HostAddress = http://localhost:5280
+
+GET {{KT5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
